@@ -1,7 +1,7 @@
 <?php   
 
 $lang = array(
-	'ogone_redirect_title'				=> 'Ogone Offsite',
+	'ogone_redirect_title'				=> 'Ogone Offsite (E-commerce method)',
 	'ogone_use_feedback_parameters' 	=> 'Is Ogone set to use transaction feedback parameters?',
 	'ogone_pspid'						=> 'Mechant ID (PSPID)',
 	'ogone_test_pspid'					=> 'Mechant Test ID (PSPID)',
